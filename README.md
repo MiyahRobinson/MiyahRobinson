@@ -1,13 +1,9 @@
-<a href="https://linkedin.com/in/micheal-white/" target="blank"><img align="center" src="[https://giphy.com/gifs/BoschGlobal-coding-home-office-remote-working-umYMU8G2ixG5mJBDo5](https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif)"> alt="Miyah-Robinson/" height="300" width="1100" /></a>
   <h1 align="center">Hi 👋, I'm Miyah Robinson</h1>
 <h3 align="center">A passionate Full Stack Software Engineer that loves Volleyball, Software and Family.</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/miyahrobinson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="micheal-white/" height="30" width="40" /></a>
 <h3 align="center">Languages and Tools:</h3>
-<img align="right" alt="Coding" width="325" height="400"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d94eabf-4257-437f-a08d-5ee63b69705f/ddcioik-9618a2de-96d7-49c6-aac8-fd553a394610.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkOTRlYWJmLTQyNTctNDM3Zi1hMDhkLTVlZTYzYjY5NzA1ZlwvZGRjaW9pay05NjE4YTJkZS05NmQ3LTQ5YzYtYWFjOC1mZDU1M2EzOTQ2MTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BqQpYsasxUa-ThxP_JLwhN5F_TtS8hU_ldviQrzvdsY">
-<img align="left" alt="Coding" width="325" height="400"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d94eabf-4257-437f-a08d-5ee63b69705f/ddflflu-94d7a295-5b59-4e3a-bd3d-990ebe030f6f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkOTRlYWJmLTQyNTctNDM3Zi1hMDhkLTVlZTYzYjY5NzA1ZlwvZGRmbGZsdS05NGQ3YTI5NS01YjU5LTRlM2EtYmQzZC05OTBlYmUwMzBmNmYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bKUiop6lp3qsk41hwf42hqL2--exOGpRmHlpE6eWg6k">
-<p align="center">  <strong>- 🥡 Food </strong></p>
 </p>
 <p align="center">  <strong>-💬 Ask me about.Net,Csharp,and React </strong></p>
 <h3 align="center">Languages and Tools:</h3>
