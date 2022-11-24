@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miyah Robinson</h1>
 <h3 align="center">A passionate Full-Stack Software Engineer</h3>4
-<img align="right alt="Coding" width="400" src="https://giphy.com/gifs/BoschGlobal-coding-home-office-remote-working-umYMU8G2ixG5mJBDo5">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/BoschGlobal-coding-home-office-remote-working-umYMU8G2ixG5mJBDo5">
 
 - 📫 How to reach me **MiyahRobinson2022@gmail.com**
 
