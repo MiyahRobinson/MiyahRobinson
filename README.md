@@ -1,1 +1,1 @@
-<a href="https://www.linkedin.com/in/miyahrobinson/" target="blank"><img align="center" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" alt="miyahrobinson/" height="400" width="1000" /></a>
+<a href="https://www.linkedin.com/in/miyahrobinson/" target="blank"><img align="center" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" alt="miyahrobinson/" height="250" width="1000" /></a>
