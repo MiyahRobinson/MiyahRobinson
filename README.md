@@ -1,1 +1,1 @@
-<a href="https://linkedin.com/in/micheal-white/" target="blank"><img align="center" src="https://i.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.webp" height="100" width="955" /></a>
+<a href="https://linkedin.com/in/micheal-white/" target="blank"><img align="center" src="https://i.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.webp" height="400" width="955" /></a>
