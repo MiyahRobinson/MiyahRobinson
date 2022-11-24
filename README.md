@@ -2,6 +2,8 @@
 
  <h1 align="center">Hi 👋, I'm Miyah Robinson</h1>
 <h3 align="center">A passionate Full Stack Software Engineer that loves Volleyball, Software and Family.</h3>
+<img align="right" alt="Coding" width="325" height="400"  src="
+https://media2.giphy.com/media/TIjtvxIE2ATbrmauR2/giphy.gif?cid=ecf05e47n3cqayoa6fc65ze5ibl1994xuu39vcswyk8fiw5k&rid=giphy.gif&ct=g">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/miyahrobinson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="micheal-white/" height="30" width="40" /></a>
