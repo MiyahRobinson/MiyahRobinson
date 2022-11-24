@@ -1,3 +1,1 @@
-<a href="[https://www.linkedin.com/in/miyahrobinson/]" target="blank"><img align="center" src="
-https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.webp"></a>
-
+<a href="https://linkedin.com/in/micheal-white/" target="blank"><img align="center" src="https://i.pinimg.com/originals/cb/71/a0/cb71a099b3ca06a3797f32f4af4c9011.gif" alt="micheal-white/" height="300" width="1100" /></a>
